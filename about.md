@@ -1,6 +1,6 @@
 ---
 title: about website
-layout: default
+layout: post
 ---
 
 # About
